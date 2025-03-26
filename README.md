@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/erikamp20/fylo-landing-page](https://github.com/erikamp20/fylo-landing-page)
+- Live Site URL: [https://erikamp20.github.io/fylo-landing-page/](https://erikamp20.github.io/fylo-landing-page/)
 
 ## My process
 
@@ -57,4 +57,4 @@ I learned a lot from doing this project. In the first place, I was able to creat
 
 <!-- - Website - [Add your name here](https://www.your-site.com) -->
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@erikamp20](https://www.frontendmentor.io/profile/erikamp20)
